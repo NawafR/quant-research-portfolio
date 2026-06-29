@@ -10,9 +10,8 @@ Data Analyst at JPMorgan Chase & Co with a BSc in Statistics. Building a quantit
 
 ## Projects
 
-- **Tadawul Factor Model** – Testing momentum, value, and quality factors on Saudi equities
 - **Financial Models** – DCF analysis on Tadawul-listed companies
-- **Trading Signals** – Backtesting systematic investment strategies
+
 
 ## Technical Skills
 
